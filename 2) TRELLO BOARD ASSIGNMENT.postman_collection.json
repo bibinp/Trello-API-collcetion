@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Create a Trello board",
+			"name": "Create a new Trello board",
 			"event": [
 				{
 					"listen": "prerequest",
